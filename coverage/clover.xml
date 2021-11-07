@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1636311968798" clover="3.2.0">
+  <project timestamp="1636311968798" name="All files">
+    <metrics statements="21" coveredstatements="21" conditionals="12" coveredconditionals="12" methods="3" coveredmethods="3" elements="36" coveredelements="36" complexity="0" loc="21" ncloc="21" packages="1" files="2" classes="2"/>
+    <file name="exercise1.js" path="C:\Users\38097\Desktop\test\exercise1.js">
+      <metrics statements="13" coveredstatements="13" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="10" count="18" type="cond" truecount="4" falsecount="0"/>
+      <line num="11" count="3" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="20" count="12" type="cond" truecount="4" falsecount="0"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="24" count="2" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+    </file>
+    <file name="exercise2.js" path="C:\Users\38097\Desktop\test\exercise2.js">
+      <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="23" count="2" type="stmt"/>
+      <line num="24" count="14" type="stmt"/>
+      <line num="25" count="98" type="cond" truecount="4" falsecount="0"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="32" count="2" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
