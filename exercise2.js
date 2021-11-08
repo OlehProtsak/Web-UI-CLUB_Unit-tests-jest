@@ -8,15 +8,9 @@
 // The bigest amount of elements in array JS is 4294967296;
 // In this case we don't need to make so "huge" array becouse the worst scenario when we get n = x2 + Y2 it is when y = 0 and x = square root of our randomNumber
 
-
-
-//const arrX = [...Array(Math.ceil(Math.sqrt(randomNum) + 1)).keys()];
-//const arrY = [...Array(Math.ceil(Math.sqrt(randomNum) + 1)).keys()];
-
-
-
-const mathFunction = (arrX, arrY, randomNum) => {
-    
+const mathFunction = (randomNum) => {
+    const arrX = [...Array(Math.ceil(Math.sqrt(randomNum) + 1)).keys()];
+    const arrY = [...Array(Math.ceil(Math.sqrt(randomNum) + 1)).keys()];
     let arr = [];
 
     
